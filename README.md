@@ -3,7 +3,8 @@
 An interactive **Power BI dashboard** built to analyze and compare **Meta Ads performance** across **Facebook and Instagram** platforms.  
 The dashboard provides end-to-end insights into campaign performance, engagement, conversions, and budget efficiency using dynamic KPIs and slicers.
 ---
-<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/441be317-f08e-4ddb-abe3-c34ce04852d8" />
+<img width="1174" height="709" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/e3f5228d-0fcb-437a-b395-4e71fbb6c169" />
+
 
 <img width="1355" height="779" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/404f0077-f255-4bc4-8bea-76b4257306e9" />
 
